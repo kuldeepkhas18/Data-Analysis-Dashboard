@@ -1,4 +1,4 @@
-#Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
+##Store-Data-Analysis (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The store wants to create an annual sales report for 2026. So that, the owner of the store can understand their customers and grow more sales in 2027
 
@@ -10,7 +10,7 @@ The store wants to create an annual sales report for 2026. So that, the owner of
 - Which month got the highest sales and orders?
 - Who purchased more - Men or Women?
 - What are different order status in 2026?
-- List top 10 states contributingto the sales?
+- List top 5 states contributingto the sales?
 - Relation between age and gender based on number of orders.
 - which Channel is contributing maximun to the sales?
 - Highest selling category?
