@@ -19,7 +19,12 @@ The store wants to create an annual sales report for 2026. So that, the owner of
 - Dashboard interaction <a href="https://github.com/kuldeepkhas18/Data-Analysis-Dashboard/blob/main/Screenshot%202026-04-27%20152326.png">View Dashboard</a>
 
 ## Process 
--Verify data for any missing values and anomalies, and sort out the same .
--Made sure data is consistent and clean with respect to data type, data format and values used.
--Created pivot tabales according to the question asked.
+- Verify data for any missing values and anomalies, and sort out the same .
+- Made sure data is consistent and clean with respect to data type, data format and values used.
+- Created pivot tabales according to the question asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
+
+<img width="1290" height="650" alt="Screenshot 2026-04-27 152326" src="https://github.com/user-attachments/assets/e7354c1f-a70c-484c-96ae-6aaea80aa987" />
+
